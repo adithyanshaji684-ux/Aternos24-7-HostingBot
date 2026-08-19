@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "fixonplayz.aternos.me:55676",
+    "ip": "fixonplayz.aternos.me",
     "port": 55676,
     "version": "",
     "try-creative": false
