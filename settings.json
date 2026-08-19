@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "LegitAdhi.aternos.me:62178",
+    "port": 62178,
     "version": "",
     "try-creative": false
   },
